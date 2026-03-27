@@ -22,8 +22,7 @@
 ## 📌 Projects
 
 - 🚜 **Agri-Connect** – E-commerce platform for farmers *(React + Node.js + MySQL)*  
-- 📑 **Survey Form / Portfolio / Landing Page** – Responsive web projects  
-- 🎵 **Drum Machine & Markdown Previewer** – React-based frontend apps  
+  
 
 🔗 Check out more in my [Repositories](https://github.com/ShivarajKattihola)
 
